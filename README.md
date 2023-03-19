@@ -1,7 +1,7 @@
 - 👋 Hello everyone, my name is Jordan Diedong (@JordanSD1)
-- 👀 I am currrently an AWS SysOps Engineer, with additional experience in Terraform, Ansible and Docker.
+- 👀 I am currrently a DevOps Engineer, with experience in AWS, Terraform, Kubernetes, Docker and Ansible.
 - I have achieved 4 AWS Certifications and the HashiCorp Certified: Terraform Associate Certification. I am currently preparing for the AWS Solutions Architect Professional certification
-- 🌱 I'm currently developing my skills in Python, CI/CD and Kubernetes.
+- 🌱 I'm currently developing my skills in Python and CI/CD.
 - 📫 You can reach me on LinkedIn at 'Jordan Diedong' 
 
 <!---
